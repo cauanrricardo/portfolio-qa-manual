@@ -9,7 +9,6 @@ Este diretório reúne os casos de teste manuais elaborados para o sistema **Cat
 | **`Casos-de-Teste/`** | Contém os casos documentados para o cenário de Carrinho de Compras (9 casos no total) |
 | **`Bug-Reports/`** | Relatórios de inconsistências encontradas durante a execução (1 bug identificado) |
 | **`Evidencias/`** | Capturas de tela selecionadas da execução dos testes |
-| **`Relatorios/`** | Resumo da execução dos testes e status final |
 
 ##  Cenário Testado
 
