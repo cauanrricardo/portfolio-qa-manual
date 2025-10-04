@@ -7,13 +7,17 @@ O objetivo é apresentar a forma de estruturar cenários de teste, registrar res
 ## Módulos do Portfólio
 
 ### **Módulo 01 – Catálogo Web (Projeto Próprio)**
-- **Cenário**: Carrinho de Compras
-- **9 casos de teste** documentados
-- **1 bug report** identificado
-- Evidências selecionadas da execução
+- **Cenário**: Carrinho de Compras  
+- **9 casos de teste** documentados  
+- **1 bug report** identificado  
+- Evidências selecionadas da execução  
 
-### **Módulo 02 – ** *(Em desenvolvimento)*
+### **Módulo 02 – Sistema de Login**
+- **Cenário**: Autenticação de Usuários  
+- **14 casos de teste** documentados  
+- **3 bug reports** identificados  
+- Evidências selecionadas da execução  
 
----
+### **Módulo 02 – (em desenvolvimento)**
 
 > **Observação**: Este portfólio está em constante evolução e será expandido com novos cenários e aplicações práticas.
