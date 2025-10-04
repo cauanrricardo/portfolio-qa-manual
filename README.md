@@ -12,7 +12,7 @@ O objetivo é apresentar a forma de estruturar cenários de teste, registrar res
 - **1 bug report** identificado  
 - Evidências selecionadas da execução  
 
-### **Módulo 02 – Sistema de Login**
+### **Módulo 02 – Sistema de Login(Projeto Próprio)**
 - **Cenário**: Autenticação de Usuários  
 - **14 casos de teste** documentados  
 - **3 bug reports** identificados  
