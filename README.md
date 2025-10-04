@@ -18,6 +18,6 @@ O objetivo é apresentar a forma de estruturar cenários de teste, registrar res
 - **3 bug reports** identificados  
 - Evidências selecionadas da execução  
 
-### **Módulo 02 – (em desenvolvimento)**
+### **Módulo 03 – (em desenvolvimento)**
 
 > **Observação**: Este portfólio está em constante evolução e será expandido com novos cenários e aplicações práticas.
