@@ -10,13 +10,15 @@ O objetivo é apresentar a forma de estruturar cenários de teste, registrar res
 - **Cenário**: Carrinho de Compras  
 - **9 casos de teste** documentados  
 - **1 bug report** identificado  
-- Evidências selecionadas da execução  
+- Evidências selecionadas da execução
+- [Clique aqui para acessar o Catálogo](https://cauanrricardo.github.io/catalago-lulu/) 
 
 ### **Módulo 02 – Sistema de Login(Projeto Próprio)**
 - **Cenário**: Autenticação de Usuários  
 - **14 casos de teste** documentados  
 - **3 bug reports** identificados  
-- Evidências selecionadas da execução  
+- Evidências selecionadas da execução
+- [Clique aqui para acessa o Laboratório](https://cauanrricardo.github.io/sistema-login-teste/) 
 
 ### **Módulo 03 – (em desenvolvimento)**
 
